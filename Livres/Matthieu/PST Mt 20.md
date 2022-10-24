@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Matthieu 20
 - Matthieu 20
 - Mt 20
@@ -8,6 +8,7 @@ tags :
 - Bible/Mt/20
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Matthieu 20

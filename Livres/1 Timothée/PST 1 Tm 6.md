@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 Timothée 6
 - 1 Timothée 6
 - 1 Tm 6
@@ -8,6 +8,7 @@ tags :
 - Bible/1Tm/6
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # 1 Timothée 6

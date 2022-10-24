@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Actes 21
 - Actes 21
 - Ac 21
@@ -8,6 +8,7 @@ tags :
 - Bible/Ac/21
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Actes 21

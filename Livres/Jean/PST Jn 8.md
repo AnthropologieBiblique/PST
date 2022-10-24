@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Jean 8
 - Jean 8
 - Jn 8
@@ -8,6 +8,7 @@ tags :
 - Bible/Jn/8
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Jean 8

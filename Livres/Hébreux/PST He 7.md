@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Hébreux 7
 - Hébreux 7
 - He 7
@@ -8,6 +8,7 @@ tags :
 - Bible/He/7
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Hébreux 7

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Actes 20
 - Actes 20
 - Ac 20
@@ -8,6 +8,7 @@ tags :
 - Bible/Ac/20
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Actes 20

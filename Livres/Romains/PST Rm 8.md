@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Romains 8
 - Romains 8
 - Rm 8
@@ -8,6 +8,7 @@ tags :
 - Bible/Rm/8
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Romains 8

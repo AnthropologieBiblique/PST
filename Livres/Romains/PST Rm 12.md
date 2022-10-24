@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Romains 12
 - Romains 12
 - Rm 12
@@ -8,6 +8,7 @@ tags :
 - Bible/Rm/12
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Romains 12

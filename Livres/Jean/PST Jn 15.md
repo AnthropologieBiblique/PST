@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Jean 15
 - Jean 15
 - Jn 15
@@ -8,6 +8,7 @@ tags :
 - Bible/Jn/15
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Jean 15

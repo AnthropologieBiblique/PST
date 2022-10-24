@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Matthieu 16
 - Matthieu 16
 - Mt 16
@@ -8,6 +8,7 @@ tags :
 - Bible/Mt/16
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Matthieu 16

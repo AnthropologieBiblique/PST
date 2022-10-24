@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 Corinthiens 3
 - 1 Corinthiens 3
 - 1 Co 3
@@ -8,6 +8,7 @@ tags :
 - Bible/1Co/3
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # 1 Corinthiens 3

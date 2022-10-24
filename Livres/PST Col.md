@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Colossiens
 - Colossiens
 - Col
@@ -8,6 +8,7 @@ tags :
 - Bible/Col
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Colossiens

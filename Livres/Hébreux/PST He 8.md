@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Hébreux 8
 - Hébreux 8
 - He 8
@@ -8,6 +8,7 @@ tags :
 - Bible/He/8
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Hébreux 8

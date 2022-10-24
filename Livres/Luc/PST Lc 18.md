@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Luc 18
 - Luc 18
 - Lc 18
@@ -8,6 +8,7 @@ tags :
 - Bible/Lc/18
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Luc 18

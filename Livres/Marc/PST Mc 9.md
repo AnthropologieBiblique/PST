@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Marc 9
 - Marc 9
 - Mc 9
@@ -8,6 +8,7 @@ tags :
 - Bible/Mc/9
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Marc 9

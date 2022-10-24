@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Matthieu 23
 - Matthieu 23
 - Mt 23
@@ -8,6 +8,7 @@ tags :
 - Bible/Mt/23
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Matthieu 23

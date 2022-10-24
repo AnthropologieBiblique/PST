@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Tite 3
 - Tite 3
 - Tt 3
@@ -8,6 +8,7 @@ tags :
 - Bible/Tt/3
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Tite 3

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Luc 4
 - Luc 4
 - Lc 4
@@ -8,6 +8,7 @@ tags :
 - Bible/Lc/4
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Luc 4

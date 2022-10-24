@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Matthieu 26
 - Matthieu 26
 - Mt 26
@@ -8,6 +8,7 @@ tags :
 - Bible/Mt/26
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Matthieu 26

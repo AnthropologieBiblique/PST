@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Matthieu 5
 - Matthieu 5
 - Mt 5
@@ -8,6 +8,7 @@ tags :
 - Bible/Mt/5
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Matthieu 5

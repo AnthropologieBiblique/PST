@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 Timothée 3
 - 1 Timothée 3
 - 1 Tm 3
@@ -8,6 +8,7 @@ tags :
 - Bible/1Tm/3
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # 1 Timothée 3

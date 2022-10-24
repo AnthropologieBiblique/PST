@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Luc 10
 - Luc 10
 - Lc 10
@@ -8,6 +8,7 @@ tags :
 - Bible/Lc/10
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Luc 10

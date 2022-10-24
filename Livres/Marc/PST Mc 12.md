@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Marc 12
 - Marc 12
 - Mc 12
@@ -8,6 +8,7 @@ tags :
 - Bible/Mc/12
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Marc 12

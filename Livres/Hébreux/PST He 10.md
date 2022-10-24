@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Hébreux 10
 - Hébreux 10
 - He 10
@@ -8,6 +8,7 @@ tags :
 - Bible/He/10
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Hébreux 10

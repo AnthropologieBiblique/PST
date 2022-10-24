@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Luc 7
 - Luc 7
 - Lc 7
@@ -8,6 +8,7 @@ tags :
 - Bible/Lc/7
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Luc 7

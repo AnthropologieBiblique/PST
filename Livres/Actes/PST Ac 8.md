@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Actes 8
 - Actes 8
 - Ac 8
@@ -8,6 +8,7 @@ tags :
 - Bible/Ac/8
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Actes 8

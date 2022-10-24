@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Matthieu 10
 - Matthieu 10
 - Mt 10
@@ -8,6 +8,7 @@ tags :
 - Bible/Mt/10
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Matthieu 10

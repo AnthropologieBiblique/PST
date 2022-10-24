@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Jean
 - Jean
 - Jn
@@ -8,6 +8,7 @@ tags :
 - Bible/Jn
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Jean

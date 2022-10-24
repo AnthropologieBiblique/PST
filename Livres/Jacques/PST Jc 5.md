@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Jacques 5
 - Jacques 5
 - Jc 5
@@ -8,6 +8,7 @@ tags :
 - Bible/Jc/5
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Jacques 5

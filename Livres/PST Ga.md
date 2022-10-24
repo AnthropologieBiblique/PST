@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Galates
 - Galates
 - Ga
@@ -8,6 +8,7 @@ tags :
 - Bible/Ga
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Galates

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Hébreux 2
 - Hébreux 2
 - He 2
@@ -8,6 +8,7 @@ tags :
 - Bible/He/2
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Hébreux 2

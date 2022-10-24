@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Hébreux 5
 - Hébreux 5
 - He 5
@@ -8,6 +8,7 @@ tags :
 - Bible/He/5
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Hébreux 5

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Romains 5
 - Romains 5
 - Rm 5
@@ -8,6 +8,7 @@ tags :
 - Bible/Rm/5
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Romains 5

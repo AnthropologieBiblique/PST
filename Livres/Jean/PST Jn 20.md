@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Jean 20
 - Jean 20
 - Jn 20
@@ -8,6 +8,7 @@ tags :
 - Bible/Jn/20
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Jean 20

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Luc 24
 - Luc 24
 - Lc 24
@@ -8,6 +8,7 @@ tags :
 - Bible/Lc/24
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Luc 24

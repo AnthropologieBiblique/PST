@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Matthieu 6
 - Matthieu 6
 - Mt 6
@@ -8,6 +8,7 @@ tags :
 - Bible/Mt/6
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Matthieu 6

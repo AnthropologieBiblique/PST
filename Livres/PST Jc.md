@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Jacques
 - Jacques
 - Jc
@@ -8,6 +8,7 @@ tags :
 - Bible/Jc
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Jacques

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Jacques 3
 - Jacques 3
 - Jc 3
@@ -8,6 +8,7 @@ tags :
 - Bible/Jc/3
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Jacques 3

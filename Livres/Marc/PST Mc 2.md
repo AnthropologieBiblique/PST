@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Marc 2
 - Marc 2
 - Mc 2
@@ -8,6 +8,7 @@ tags :
 - Bible/Mc/2
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Marc 2

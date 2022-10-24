@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 Timothée 4
 - 1 Timothée 4
 - 1 Tm 4
@@ -8,6 +8,7 @@ tags :
 - Bible/1Tm/4
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # 1 Timothée 4

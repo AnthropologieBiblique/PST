@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Apocalypse 20
 - Apocalypse 20
 - Ap 20
@@ -8,6 +8,7 @@ tags :
 - Bible/Ap/20
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Apocalypse 20

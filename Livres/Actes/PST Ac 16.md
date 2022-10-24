@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Actes 16
 - Actes 16
 - Ac 16
@@ -8,6 +8,7 @@ tags :
 - Bible/Ac/16
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Actes 16

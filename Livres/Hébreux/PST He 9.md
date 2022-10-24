@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Hébreux 9
 - Hébreux 9
 - He 9
@@ -8,6 +8,7 @@ tags :
 - Bible/He/9
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Hébreux 9

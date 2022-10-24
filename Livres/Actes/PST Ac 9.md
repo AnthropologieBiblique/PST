@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Actes 9
 - Actes 9
 - Ac 9
@@ -8,6 +8,7 @@ tags :
 - Bible/Ac/9
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Actes 9

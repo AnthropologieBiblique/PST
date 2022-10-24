@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Luc 17
 - Luc 17
 - Lc 17
@@ -8,6 +8,7 @@ tags :
 - Bible/Lc/17
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Luc 17

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Luc 22
 - Luc 22
 - Lc 22
@@ -8,6 +8,7 @@ tags :
 - Bible/Lc/22
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Luc 22

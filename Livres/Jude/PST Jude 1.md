@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Jude 1
 - Jude 1
 - Jude 1
@@ -7,6 +7,7 @@ tags :
 - Bible/Jude/1
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Jude 1

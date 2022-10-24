@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Matthieu 11
 - Matthieu 11
 - Mt 11
@@ -8,6 +8,7 @@ tags :
 - Bible/Mt/11
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Matthieu 11

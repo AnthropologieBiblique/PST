@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Actes 15
 - Actes 15
 - Ac 15
@@ -8,6 +8,7 @@ tags :
 - Bible/Ac/15
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Actes 15

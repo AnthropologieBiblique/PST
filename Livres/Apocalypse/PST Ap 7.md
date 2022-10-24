@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Apocalypse 7
 - Apocalypse 7
 - Ap 7
@@ -8,6 +8,7 @@ tags :
 - Bible/Ap/7
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Apocalypse 7

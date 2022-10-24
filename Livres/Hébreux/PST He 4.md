@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Hébreux 4
 - Hébreux 4
 - He 4
@@ -8,6 +8,7 @@ tags :
 - Bible/He/4
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Hébreux 4

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Éphésiens 4
 - Éphésiens 4
 - Ep 4
@@ -8,6 +8,7 @@ tags :
 - Bible/Ep/4
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Éphésiens 4

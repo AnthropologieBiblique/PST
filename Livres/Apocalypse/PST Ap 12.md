@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Apocalypse 12
 - Apocalypse 12
 - Ap 12
@@ -8,6 +8,7 @@ tags :
 - Bible/Ap/12
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Apocalypse 12

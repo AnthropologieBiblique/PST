@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Apocalypse 3
 - Apocalypse 3
 - Ap 3
@@ -8,6 +8,7 @@ tags :
 - Bible/Ap/3
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Apocalypse 3

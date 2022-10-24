@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Matthieu 24
 - Matthieu 24
 - Mt 24
@@ -8,6 +8,7 @@ tags :
 - Bible/Mt/24
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Matthieu 24

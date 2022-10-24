@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Matthieu 3
 - Matthieu 3
 - Mt 3
@@ -8,6 +8,7 @@ tags :
 - Bible/Mt/3
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Matthieu 3

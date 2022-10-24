@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Jean 3
 - Jean 3
 - Jn 3
@@ -8,6 +8,7 @@ tags :
 - Bible/Jn/3
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Jean 3

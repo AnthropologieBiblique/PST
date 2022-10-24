@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Jean 14
 - Jean 14
 - Jn 14
@@ -8,6 +8,7 @@ tags :
 - Bible/Jn/14
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Jean 14

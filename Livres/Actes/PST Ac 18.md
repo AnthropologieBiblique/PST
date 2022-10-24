@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Actes 18
 - Actes 18
 - Ac 18
@@ -8,6 +8,7 @@ tags :
 - Bible/Ac/18
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Actes 18

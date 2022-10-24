@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Hébreux
 - Hébreux
 - He
@@ -8,6 +8,7 @@ tags :
 - Bible/He
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Hébreux

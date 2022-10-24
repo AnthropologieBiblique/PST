@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Marc 15
 - Marc 15
 - Mc 15
@@ -8,6 +8,7 @@ tags :
 - Bible/Mc/15
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Marc 15

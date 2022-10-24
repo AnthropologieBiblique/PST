@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Éphésiens
 - Éphésiens
 - Ep
@@ -8,6 +8,7 @@ tags :
 - Bible/Ep
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Éphésiens

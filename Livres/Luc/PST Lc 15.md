@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Luc 15
 - Luc 15
 - Lc 15
@@ -8,6 +8,7 @@ tags :
 - Bible/Lc/15
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Luc 15

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Apocalypse 2
 - Apocalypse 2
 - Ap 2
@@ -8,6 +8,7 @@ tags :
 - Bible/Ap/2
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Apocalypse 2

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Matthieu 25
 - Matthieu 25
 - Mt 25
@@ -8,6 +8,7 @@ tags :
 - Bible/Mt/25
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Matthieu 25

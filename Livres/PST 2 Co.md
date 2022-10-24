@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 Corinthiens
 - 2 Corinthiens
 - 2 Co
@@ -8,6 +8,7 @@ tags :
 - Bible/2Co
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # 2 Corinthiens

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Hébreux 6
 - Hébreux 6
 - He 6
@@ -8,6 +8,7 @@ tags :
 - Bible/He/6
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Hébreux 6

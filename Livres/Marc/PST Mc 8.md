@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Marc 8
 - Marc 8
 - Mc 8
@@ -8,6 +8,7 @@ tags :
 - Bible/Mc/8
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Marc 8

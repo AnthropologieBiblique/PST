@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Jean 21
 - Jean 21
 - Jn 21
@@ -8,6 +8,7 @@ tags :
 - Bible/Jn/21
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Jean 21

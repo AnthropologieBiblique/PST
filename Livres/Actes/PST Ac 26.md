@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Actes 26
 - Actes 26
 - Ac 26
@@ -8,6 +8,7 @@ tags :
 - Bible/Ac/26
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Actes 26

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Romains 15
 - Romains 15
 - Rm 15
@@ -8,6 +8,7 @@ tags :
 - Bible/Rm/15
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Romains 15

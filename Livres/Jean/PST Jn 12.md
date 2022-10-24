@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Jean 12
 - Jean 12
 - Jn 12
@@ -8,6 +8,7 @@ tags :
 - Bible/Jn/12
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Jean 12

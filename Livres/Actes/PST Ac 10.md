@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Actes 10
 - Actes 10
 - Ac 10
@@ -8,6 +8,7 @@ tags :
 - Bible/Ac/10
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Actes 10

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Éphésiens 5
 - Éphésiens 5
 - Ep 5
@@ -8,6 +8,7 @@ tags :
 - Bible/Ep/5
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Éphésiens 5

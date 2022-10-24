@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Jean 11
 - Jean 11
 - Jn 11
@@ -8,6 +8,7 @@ tags :
 - Bible/Jn/11
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Jean 11

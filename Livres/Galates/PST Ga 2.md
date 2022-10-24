@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Galates 2
 - Galates 2
 - Ga 2
@@ -8,6 +8,7 @@ tags :
 - Bible/Ga/2
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Galates 2

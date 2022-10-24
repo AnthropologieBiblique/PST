@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Matthieu 21
 - Matthieu 21
 - Mt 21
@@ -8,6 +8,7 @@ tags :
 - Bible/Mt/21
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Matthieu 21

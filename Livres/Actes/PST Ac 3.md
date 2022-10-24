@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Actes 3
 - Actes 3
 - Ac 3
@@ -8,6 +8,7 @@ tags :
 - Bible/Ac/3
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Actes 3

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Actes 4
 - Actes 4
 - Ac 4
@@ -8,6 +8,7 @@ tags :
 - Bible/Ac/4
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Actes 4

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Luc 3
 - Luc 3
 - Lc 3
@@ -8,6 +8,7 @@ tags :
 - Bible/Lc/3
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Luc 3

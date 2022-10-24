@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Jean 17
 - Jean 17
 - Jn 17
@@ -8,6 +8,7 @@ tags :
 - Bible/Jn/17
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Jean 17

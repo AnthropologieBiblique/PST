@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 Corinthiens 4
 - 1 Corinthiens 4
 - 1 Co 4
@@ -8,6 +8,7 @@ tags :
 - Bible/1Co/4
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # 1 Corinthiens 4

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Actes 17
 - Actes 17
 - Ac 17
@@ -8,6 +8,7 @@ tags :
 - Bible/Ac/17
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Actes 17

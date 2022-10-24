@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Actes 25
 - Actes 25
 - Ac 25
@@ -8,6 +8,7 @@ tags :
 - Bible/Ac/25
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Actes 25

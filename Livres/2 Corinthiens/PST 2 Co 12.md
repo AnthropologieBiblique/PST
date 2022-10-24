@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 Corinthiens 12
 - 2 Corinthiens 12
 - 2 Co 12
@@ -8,6 +8,7 @@ tags :
 - Bible/2Co/12
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # 2 Corinthiens 12

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Apocalypse 6
 - Apocalypse 6
 - Ap 6
@@ -8,6 +8,7 @@ tags :
 - Bible/Ap/6
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Apocalypse 6

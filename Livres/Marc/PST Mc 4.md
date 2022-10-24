@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Marc 4
 - Marc 4
 - Mc 4
@@ -8,6 +8,7 @@ tags :
 - Bible/Mc/4
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Marc 4

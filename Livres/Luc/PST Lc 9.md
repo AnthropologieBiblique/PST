@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Luc 9
 - Luc 9
 - Lc 9
@@ -8,6 +8,7 @@ tags :
 - Bible/Lc/9
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Luc 9

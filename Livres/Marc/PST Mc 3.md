@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Marc 3
 - Marc 3
 - Mc 3
@@ -8,6 +8,7 @@ tags :
 - Bible/Mc/3
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Marc 3

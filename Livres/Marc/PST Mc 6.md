@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Marc 6
 - Marc 6
 - Mc 6
@@ -8,6 +8,7 @@ tags :
 - Bible/Mc/6
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Marc 6

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Matthieu 8
 - Matthieu 8
 - Mt 8
@@ -8,6 +8,7 @@ tags :
 - Bible/Mt/8
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Matthieu 8

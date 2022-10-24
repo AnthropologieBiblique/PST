@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Actes 5
 - Actes 5
 - Ac 5
@@ -8,6 +8,7 @@ tags :
 - Bible/Ac/5
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Actes 5

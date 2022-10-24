@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Romains 11
 - Romains 11
 - Rm 11
@@ -8,6 +8,7 @@ tags :
 - Bible/Rm/11
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Romains 11

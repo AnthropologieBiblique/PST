@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 Thessaloniciens 4
 - 1 Thessaloniciens 4
 - 1 Th 4
@@ -8,6 +8,7 @@ tags :
 - Bible/1Th/4
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # 1 Thessaloniciens 4

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Luc 23
 - Luc 23
 - Lc 23
@@ -8,6 +8,7 @@ tags :
 - Bible/Lc/23
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Luc 23

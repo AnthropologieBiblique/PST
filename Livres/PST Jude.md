@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Jude
 - Jude
 - Jude
@@ -7,6 +7,7 @@ tags :
 - Bible/Jude
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Jude

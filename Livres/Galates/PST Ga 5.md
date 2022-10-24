@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Galates 5
 - Galates 5
 - Ga 5
@@ -8,6 +8,7 @@ tags :
 - Bible/Ga/5
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Galates 5

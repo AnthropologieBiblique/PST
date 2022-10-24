@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 Jean
 - 2 Jean
 - 2 Jn
@@ -8,6 +8,7 @@ tags :
 - Bible/2Jn
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # 2 Jean

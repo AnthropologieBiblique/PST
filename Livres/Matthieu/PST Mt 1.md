@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Matthieu 1
 - Matthieu 1
 - Mt 1
@@ -8,6 +8,7 @@ tags :
 - Bible/Mt/1
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Matthieu 1

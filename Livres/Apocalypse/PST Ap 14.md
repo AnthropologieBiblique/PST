@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Apocalypse 14
 - Apocalypse 14
 - Ap 14
@@ -8,6 +8,7 @@ tags :
 - Bible/Ap/14
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Apocalypse 14

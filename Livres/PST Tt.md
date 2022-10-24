@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Tite
 - Tite
 - Tt
@@ -8,6 +8,7 @@ tags :
 - Bible/Tt
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Tite

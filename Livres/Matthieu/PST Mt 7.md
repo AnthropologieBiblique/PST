@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Matthieu 7
 - Matthieu 7
 - Mt 7
@@ -8,6 +8,7 @@ tags :
 - Bible/Mt/7
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Matthieu 7

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Actes 24
 - Actes 24
 - Ac 24
@@ -8,6 +8,7 @@ tags :
 - Bible/Ac/24
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Actes 24

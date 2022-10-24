@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Actes 13
 - Actes 13
 - Ac 13
@@ -8,6 +8,7 @@ tags :
 - Bible/Ac/13
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Actes 13

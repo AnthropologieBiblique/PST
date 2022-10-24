@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 Thessaloniciens 2
 - 2 Thessaloniciens 2
 - 2 Th 2
@@ -8,6 +8,7 @@ tags :
 - Bible/2Th/2
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # 2 Thessaloniciens 2

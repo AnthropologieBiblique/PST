@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Jean 10
 - Jean 10
 - Jn 10
@@ -8,6 +8,7 @@ tags :
 - Bible/Jn/10
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Jean 10

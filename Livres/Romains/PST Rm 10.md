@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Romains 10
 - Romains 10
 - Rm 10
@@ -8,6 +8,7 @@ tags :
 - Bible/Rm/10
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Romains 10

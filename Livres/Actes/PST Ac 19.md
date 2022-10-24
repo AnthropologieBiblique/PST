@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Actes 19
 - Actes 19
 - Ac 19
@@ -8,6 +8,7 @@ tags :
 - Bible/Ac/19
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Actes 19

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Apocalypse
 - Apocalypse
 - Ap
@@ -8,6 +8,7 @@ tags :
 - Bible/Ap
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Apocalypse

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Matthieu 18
 - Matthieu 18
 - Mt 18
@@ -8,6 +8,7 @@ tags :
 - Bible/Mt/18
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Matthieu 18

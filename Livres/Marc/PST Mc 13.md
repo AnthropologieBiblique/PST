@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Marc 13
 - Marc 13
 - Mc 13
@@ -8,6 +8,7 @@ tags :
 - Bible/Mc/13
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Marc 13

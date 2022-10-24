@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Apocalypse 19
 - Apocalypse 19
 - Ap 19
@@ -8,6 +8,7 @@ tags :
 - Bible/Ap/19
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Apocalypse 19

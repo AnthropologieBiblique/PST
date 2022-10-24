@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 Corinthiens 7
 - 1 Corinthiens 7
 - 1 Co 7
@@ -8,6 +8,7 @@ tags :
 - Bible/1Co/7
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # 1 Corinthiens 7

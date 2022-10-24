@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Éphésiens 3
 - Éphésiens 3
 - Ep 3
@@ -8,6 +8,7 @@ tags :
 - Bible/Ep/3
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Éphésiens 3

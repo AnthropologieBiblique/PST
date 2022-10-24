@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 Corinthiens 8
 - 1 Corinthiens 8
 - 1 Co 8
@@ -8,6 +8,7 @@ tags :
 - Bible/1Co/8
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # 1 Corinthiens 8

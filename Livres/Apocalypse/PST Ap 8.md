@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Apocalypse 8
 - Apocalypse 8
 - Ap 8
@@ -8,6 +8,7 @@ tags :
 - Bible/Ap/8
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Apocalypse 8

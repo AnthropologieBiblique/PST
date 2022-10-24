@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Apocalypse 13
 - Apocalypse 13
 - Ap 13
@@ -8,6 +8,7 @@ tags :
 - Bible/Ap/13
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Apocalypse 13

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Marc 1
 - Marc 1
 - Mc 1
@@ -8,6 +8,7 @@ tags :
 - Bible/Mc/1
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Marc 1

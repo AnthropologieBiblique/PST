@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Apocalypse 16
 - Apocalypse 16
 - Ap 16
@@ -8,6 +8,7 @@ tags :
 - Bible/Ap/16
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Apocalypse 16

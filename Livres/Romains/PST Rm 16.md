@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Romains 16
 - Romains 16
 - Rm 16
@@ -8,6 +8,7 @@ tags :
 - Bible/Rm/16
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Romains 16

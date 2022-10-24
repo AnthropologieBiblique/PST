@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Philippiens 1
 - Philippiens 1
 - Ph 1
@@ -8,6 +8,7 @@ tags :
 - Bible/Ph/1
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Philippiens 1

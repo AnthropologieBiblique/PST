@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Matthieu 22
 - Matthieu 22
 - Mt 22
@@ -8,6 +8,7 @@ tags :
 - Bible/Mt/22
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Matthieu 22

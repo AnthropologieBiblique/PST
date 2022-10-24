@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Luc 11
 - Luc 11
 - Lc 11
@@ -8,6 +8,7 @@ tags :
 - Bible/Lc/11
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Luc 11

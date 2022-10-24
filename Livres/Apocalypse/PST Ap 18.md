@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Apocalypse 18
 - Apocalypse 18
 - Ap 18
@@ -8,6 +8,7 @@ tags :
 - Bible/Ap/18
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Apocalypse 18

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Éphésiens 2
 - Éphésiens 2
 - Ep 2
@@ -8,6 +8,7 @@ tags :
 - Bible/Ep/2
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Éphésiens 2

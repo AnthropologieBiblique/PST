@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Actes 11
 - Actes 11
 - Ac 11
@@ -8,6 +8,7 @@ tags :
 - Bible/Ac/11
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Actes 11

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Marc 5
 - Marc 5
 - Mc 5
@@ -8,6 +8,7 @@ tags :
 - Bible/Mc/5
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Marc 5

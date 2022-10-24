@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Apocalypse 22
 - Apocalypse 22
 - Ap 22
@@ -8,6 +8,7 @@ tags :
 - Bible/Ap/22
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Apocalypse 22

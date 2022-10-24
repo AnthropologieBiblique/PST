@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Philémon 1
 - Philémon 1
 - Phm 1
@@ -8,6 +8,7 @@ tags :
 - Bible/Phm/1
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Philémon 1

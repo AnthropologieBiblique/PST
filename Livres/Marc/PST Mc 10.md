@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Marc 10
 - Marc 10
 - Mc 10
@@ -8,6 +8,7 @@ tags :
 - Bible/Mc/10
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Marc 10

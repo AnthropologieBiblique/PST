@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Galates 4
 - Galates 4
 - Ga 4
@@ -8,6 +8,7 @@ tags :
 - Bible/Ga/4
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Galates 4

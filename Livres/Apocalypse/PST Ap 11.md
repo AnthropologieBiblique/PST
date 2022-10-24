@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Apocalypse 11
 - Apocalypse 11
 - Ap 11
@@ -8,6 +8,7 @@ tags :
 - Bible/Ap/11
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Apocalypse 11

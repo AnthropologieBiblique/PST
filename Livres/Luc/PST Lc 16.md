@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Luc 16
 - Luc 16
 - Lc 16
@@ -8,6 +8,7 @@ tags :
 - Bible/Lc/16
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Luc 16

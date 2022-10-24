@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Apocalypse 21
 - Apocalypse 21
 - Ap 21
@@ -8,6 +8,7 @@ tags :
 - Bible/Ap/21
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Apocalypse 21

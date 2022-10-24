@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Galates 6
 - Galates 6
 - Ga 6
@@ -8,6 +8,7 @@ tags :
 - Bible/Ga/6
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Galates 6

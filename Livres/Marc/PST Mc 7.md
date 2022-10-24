@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Marc 7
 - Marc 7
 - Mc 7
@@ -8,6 +8,7 @@ tags :
 - Bible/Mc/7
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Marc 7

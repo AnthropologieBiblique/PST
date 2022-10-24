@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Jacques 2
 - Jacques 2
 - Jc 2
@@ -8,6 +8,7 @@ tags :
 - Bible/Jc/2
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Jacques 2

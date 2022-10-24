@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Galates 1
 - Galates 1
 - Ga 1
@@ -8,6 +8,7 @@ tags :
 - Bible/Ga/1
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Galates 1

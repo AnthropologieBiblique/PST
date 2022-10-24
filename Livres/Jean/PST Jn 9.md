@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Jean 9
 - Jean 9
 - Jn 9
@@ -8,6 +8,7 @@ tags :
 - Bible/Jn/9
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Jean 9

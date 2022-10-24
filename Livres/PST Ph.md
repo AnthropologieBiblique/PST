@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Philippiens
 - Philippiens
 - Ph
@@ -8,6 +8,7 @@ tags :
 - Bible/Ph
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Philippiens

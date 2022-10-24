@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 Thessaloniciens 1
 - 1 Thessaloniciens 1
 - 1 Th 1
@@ -8,6 +8,7 @@ tags :
 - Bible/1Th/1
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # 1 Thessaloniciens 1

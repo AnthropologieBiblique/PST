@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Actes 7
 - Actes 7
 - Ac 7
@@ -8,6 +8,7 @@ tags :
 - Bible/Ac/7
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Actes 7

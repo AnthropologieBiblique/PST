@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Luc 19
 - Luc 19
 - Lc 19
@@ -8,6 +8,7 @@ tags :
 - Bible/Lc/19
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Luc 19

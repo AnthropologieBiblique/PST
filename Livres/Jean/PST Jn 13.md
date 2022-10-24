@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Jean 13
 - Jean 13
 - Jn 13
@@ -8,6 +8,7 @@ tags :
 - Bible/Jn/13
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Jean 13

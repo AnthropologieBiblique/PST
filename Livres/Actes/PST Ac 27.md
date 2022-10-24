@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Actes 27
 - Actes 27
 - Ac 27
@@ -8,6 +8,7 @@ tags :
 - Bible/Ac/27
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Actes 27

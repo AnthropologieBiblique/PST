@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Romains 13
 - Romains 13
 - Rm 13
@@ -8,6 +8,7 @@ tags :
 - Bible/Rm/13
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Romains 13

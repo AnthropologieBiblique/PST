@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Matthieu 28
 - Matthieu 28
 - Mt 28
@@ -8,6 +8,7 @@ tags :
 - Bible/Mt/28
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Matthieu 28

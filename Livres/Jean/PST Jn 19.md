@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Jean 19
 - Jean 19
 - Jn 19
@@ -8,6 +8,7 @@ tags :
 - Bible/Jn/19
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Jean 19

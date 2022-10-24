@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Jean 7
 - Jean 7
 - Jn 7
@@ -8,6 +8,7 @@ tags :
 - Bible/Jn/7
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Jean 7

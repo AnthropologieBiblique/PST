@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Matthieu 15
 - Matthieu 15
 - Mt 15
@@ -8,6 +8,7 @@ tags :
 - Bible/Mt/15
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Matthieu 15

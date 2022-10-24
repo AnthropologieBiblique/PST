@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 Thessaloniciens 3
 - 2 Thessaloniciens 3
 - 2 Th 3
@@ -8,6 +8,7 @@ tags :
 - Bible/2Th/3
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # 2 Thessaloniciens 3

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Hébreux 13
 - Hébreux 13
 - He 13
@@ -8,6 +8,7 @@ tags :
 - Bible/He/13
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Hébreux 13

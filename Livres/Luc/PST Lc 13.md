@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Luc 13
 - Luc 13
 - Lc 13
@@ -8,6 +8,7 @@ tags :
 - Bible/Lc/13
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Luc 13

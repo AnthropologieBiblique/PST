@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Hébreux 12
 - Hébreux 12
 - He 12
@@ -8,6 +8,7 @@ tags :
 - Bible/He/12
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Hébreux 12

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Luc 20
 - Luc 20
 - Lc 20
@@ -8,6 +8,7 @@ tags :
 - Bible/Lc/20
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Luc 20

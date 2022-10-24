@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 Timothée
 - 2 Timothée
 - 2 Tm
@@ -8,6 +8,7 @@ tags :
 - Bible/2Tm
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # 2 Timothée

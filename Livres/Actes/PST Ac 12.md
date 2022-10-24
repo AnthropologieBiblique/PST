@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Actes 12
 - Actes 12
 - Ac 12
@@ -8,6 +8,7 @@ tags :
 - Bible/Ac/12
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Actes 12

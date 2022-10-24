@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Luc 1
 - Luc 1
 - Lc 1
@@ -8,6 +8,7 @@ tags :
 - Bible/Lc/1
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Luc 1

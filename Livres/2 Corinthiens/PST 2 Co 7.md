@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 Corinthiens 7
 - 2 Corinthiens 7
 - 2 Co 7
@@ -8,6 +8,7 @@ tags :
 - Bible/2Co/7
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # 2 Corinthiens 7

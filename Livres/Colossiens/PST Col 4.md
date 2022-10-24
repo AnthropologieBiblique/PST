@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Colossiens 4
 - Colossiens 4
 - Col 4
@@ -8,6 +8,7 @@ tags :
 - Bible/Col/4
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Colossiens 4

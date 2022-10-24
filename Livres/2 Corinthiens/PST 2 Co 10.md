@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 Corinthiens 10
 - 2 Corinthiens 10
 - 2 Co 10
@@ -8,6 +8,7 @@ tags :
 - Bible/2Co/10
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # 2 Corinthiens 10

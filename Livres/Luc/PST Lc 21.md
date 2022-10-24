@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Luc 21
 - Luc 21
 - Lc 21
@@ -8,6 +8,7 @@ tags :
 - Bible/Lc/21
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Luc 21

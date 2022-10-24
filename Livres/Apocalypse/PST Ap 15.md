@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Apocalypse 15
 - Apocalypse 15
 - Ap 15
@@ -8,6 +8,7 @@ tags :
 - Bible/Ap/15
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Apocalypse 15

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Colossiens 3
 - Colossiens 3
 - Col 3
@@ -8,6 +8,7 @@ tags :
 - Bible/Col/3
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Colossiens 3

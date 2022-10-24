@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Actes 2
 - Actes 2
 - Ac 2
@@ -8,6 +8,7 @@ tags :
 - Bible/Ac/2
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Actes 2

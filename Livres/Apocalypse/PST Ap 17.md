@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Apocalypse 17
 - Apocalypse 17
 - Ap 17
@@ -8,6 +8,7 @@ tags :
 - Bible/Ap/17
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Apocalypse 17

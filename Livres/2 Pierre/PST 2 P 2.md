@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 Pierre 2
 - 2 Pierre 2
 - 2 P 2
@@ -8,6 +8,7 @@ tags :
 - Bible/2P/2
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # 2 Pierre 2

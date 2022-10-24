@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Jean 1
 - Jean 1
 - Jn 1
@@ -8,6 +8,7 @@ tags :
 - Bible/Jn/1
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Jean 1

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Jean 6
 - Jean 6
 - Jn 6
@@ -8,6 +8,7 @@ tags :
 - Bible/Jn/6
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Jean 6

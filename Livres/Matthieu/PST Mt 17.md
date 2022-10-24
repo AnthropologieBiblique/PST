@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Matthieu 17
 - Matthieu 17
 - Mt 17
@@ -8,6 +8,7 @@ tags :
 - Bible/Mt/17
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Matthieu 17

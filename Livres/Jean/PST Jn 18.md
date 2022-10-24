@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Jean 18
 - Jean 18
 - Jn 18
@@ -8,6 +8,7 @@ tags :
 - Bible/Jn/18
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Jean 18

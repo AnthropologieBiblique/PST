@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Actes 22
 - Actes 22
 - Ac 22
@@ -8,6 +8,7 @@ tags :
 - Bible/Ac/22
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Actes 22

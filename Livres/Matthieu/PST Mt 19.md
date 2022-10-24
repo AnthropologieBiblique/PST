@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Matthieu 19
 - Matthieu 19
 - Mt 19
@@ -8,6 +8,7 @@ tags :
 - Bible/Mt/19
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Matthieu 19

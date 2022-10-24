@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Matthieu 14
 - Matthieu 14
 - Mt 14
@@ -8,6 +8,7 @@ tags :
 - Bible/Mt/14
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Matthieu 14

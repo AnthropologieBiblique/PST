@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 Timothée 5
 - 1 Timothée 5
 - 1 Tm 5
@@ -8,6 +8,7 @@ tags :
 - Bible/1Tm/5
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # 1 Timothée 5

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Romains 7
 - Romains 7
 - Rm 7
@@ -8,6 +8,7 @@ tags :
 - Bible/Rm/7
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Romains 7

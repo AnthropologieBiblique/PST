@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Luc 6
 - Luc 6
 - Lc 6
@@ -8,6 +8,7 @@ tags :
 - Bible/Lc/6
 - araméen
 cssclass : araméen
+direction : rtl
 ---
 
 # Luc 6
